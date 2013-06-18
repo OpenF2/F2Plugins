@@ -4,7 +4,7 @@
  * Facilitates persistent storage of data on the client browser using 
  * localStorage or cookies, depending on browser support.
  *
- * (c) 2012 Markit On Demand http://dev.markitondemand.com
+ * (c) 2013 Markit On Demand http://dev.markitondemand.com
  *  
  */
 F2.extend('Storage', (function() {
