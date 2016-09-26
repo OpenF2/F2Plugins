@@ -1,0 +1,36 @@
+{
+  "name": "f2plugins",
+  "version": "1.0.0",
+  "description": "Set of Plugins for the F2 Library",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenF2/F2Plugins.git"
+  },
+  "keywords": [
+    "OpenF2",
+    "F2",
+    "F2Plugins",
+    "WebIntegration-Framework",
+    "JavaScript-Framework"
+  ],
+  "author": "IHS Markit",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OpenF2/F2Plugins/issues"
+  },
+  "homepage": "https://github.com/OpenF2/F2Plugins#readme"
+}
